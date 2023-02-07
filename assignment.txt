@@ -1,3 +1,7 @@
 write a story and push to github, 
 i will read make changes and push
 then you will pull and make changes and the push
+
+2. create the redButton branch and edit the Button.txt file , 
+push the RedButtonBranch and then create a pull request, 
+accept the pull request.
